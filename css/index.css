@@ -1,0 +1,103 @@
+html{height:100%}  
+body{height:100%;margin:0px;padding:0px}  
+.title{
+	width: 100%;
+	height: 4.54rem
+}
+.title img{
+	width: 100%;
+	height: 100%;
+}
+article{
+	padding : 0 0.5rem;
+}
+article h5{
+	margin: 0.3rem 0;
+	font-size: 0.53rem;
+	text-align: left;
+	line-height: 140%;
+}
+.article_title{
+	padding-bottom: 0.3rem;
+	border-bottom: 2px solid #e4e4e6;
+}
+.create_time{
+	font-size: 0.25rem;
+	color: #aaaaad;
+
+}
+.share{
+	margin-top: 0.2rem;
+	padding-bottom: 0.3rem;
+	border-bottom: 2px solid #e4e4e6;
+}
+.share p{
+	margin: 0 0;
+	display: inline-block;
+	font-size: 0.4rem;
+	overflow: hidden;
+	vertical-align: middle;
+}
+.share p img{
+	margin-right: 0.2rem
+}
+.article_txt{
+	font-size: 0.5rem
+}
+
+.bottom{
+	padding:0.5rem;
+}
+.bottom>p:nth-child(1){
+	font-size: 0.35rem;
+}
+.recommend_list{
+	overflow: hidden;
+}
+.recommend_list>div{
+	padding: 0.3rem 0;
+	overflow: hidden;
+	border-bottom: 1px solid #ccc;
+}
+.recommend_list_left{
+	float: left;
+	font-size: 0.4rem;
+	width: 5rem;
+}
+.recommend_list_left h6{
+	font-size: 0.35rem;
+	line-height: 125%;
+}
+.recommend_info{
+	font-size: 0.32rem;
+	line-height: 140%;
+	color: #A9A9AC;
+	margin: 0.08rem 0;
+}
+.recommend_number{
+	margin: 0;
+	float: right;
+	margin-right: 0.1rem;
+	font-size: 0.35rem;
+	margin-top: 0.1rem;
+}
+.recommend_number img{
+	width: 0.4rem;
+	vertical-align:middle;
+	margin-right: 0.1rem;
+}
+.recommend_number span:nth-child(1){
+	margin-right: 0.15rem;
+}
+.recommend_list_right{
+	float: left;
+}
+.recommend_list_right img{
+	width: 2.5rem;
+}
+.recommend_list_left h6{
+	margin: 0;
+}
+.bottom>p{
+	margin:0;
+}
